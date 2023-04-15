@@ -6,13 +6,14 @@ export default function Home() {
             <code className="font-bold text-3xl">/gpt</code>
           </p>
           <div>
-            <video className="bg-gray-100 rounded-lg shadow-lg" width="640" height="360" controls>
+            <p className="pb-10 font-thin">Stop copy pasting chatGPT results, use our extension to generate results on every text input!</p>
+            <video className="rounded-lg shadow-lg" width="640" height="360" controls>
               <source src="/demo.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
           <div className="mt-10">
-            <a href="https://src200.gumroad.com/l/slashgpt" className="text-amber-500 cursor-pointer border uppercase border-amber-500 hover:bg-amber-500 hover:text-white active:bg-amber-600 font-bold px-8 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button">
+            <a href="https://src200.gumroad.com/l/slashgpt" className="text-amber-300 cursor-pointer border uppercase border-amber-300 hover:bg-amber-300 hover:text-white active:bg-amber-600 font-bold px-8 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button">
               Get the chrome extension
             </a>
           </div>
