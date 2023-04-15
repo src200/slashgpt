@@ -6,7 +6,7 @@ export default function Home() {
             <code className="font-bold text-3xl">/gpt</code>
           </p>
           <div>
-            <video class="bg-gray-100 rounded-lg shadow-lg" width="640" height="360" controls>
+            <video className="bg-gray-100 rounded-lg shadow-lg" width="640" height="360" controls>
               <source src="/demo.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
