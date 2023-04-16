@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main className="min-h-screen items-center p-24">
+    <main className="flex items-center justify-center h-screen">
         <div className="flex w-full justify-center flex-col p-10 items-center rounded-xl border-gray-600">
-           <p className="pb-10">
+          <p className="pb-10">
             <code className="font-bold text-3xl">/gpt</code>
           </p>
           <div>
