@@ -20,3 +20,7 @@ body {
   color: #f9f5d7;
   background: #1d2021;
 }
+
+.will-change-transform {
+  will-change: transform;
+}
