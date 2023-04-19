@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="flex items-center justify-center h-screen">
-        <div className="flex w-full justify-center flex-col items-center rounded-xl border-gray-600">
+        <div className="flex w-full justify-center flex-col items-center rounded-xl border-gray-600 p-4">
           <h2 className="pb-8 text-5xl font-extrabold text-transparent text-center bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500">
             Instant ChatGPT access wherever you want.
           </h2>
