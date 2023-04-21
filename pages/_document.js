@@ -11,9 +11,9 @@ export default function Document() {
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
-        <meta name="description" content="Listens for the term /gpt in every text input and use it as chatGPT prompt." />
+        <meta name="description" content="Instant ChatGPT access wherever you want." />
         <meta property="og:title" content="/gpt" />
-        <meta property="og:description" content="Listens for the term /gpt in every text input and use it as chatGPT prompt." />
+        <meta property="og:description" content="Instant ChatGPT access wherever you want." />
         <meta property="og:image" content="/image2.png" />
         <meta property="og:url" content="https://slashgpt.xyz" />
         <meta property="og:type" content="website" />
