@@ -6,14 +6,14 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>gpt</title>
+        <title>SlashGPT - Instant ChatGPT access wherever you want</title>
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
-        <meta name="description" content="Instant ChatGPT access wherever you want." />
+        <meta name="description" content="SlashGPT - Instant ChatGPT access wherever you want." />
         <meta property="og:title" content="/gpt" />
-        <meta property="og:description" content="Instant ChatGPT access wherever you want." />
+        <meta property="og:description" content="SlashGPT - Instant ChatGPT access wherever you want." />
         <meta property="og:image" content="/image2.png" />
         <meta property="og:url" content="https://slashgpt.xyz" />
         <meta property="og:type" content="website" />
